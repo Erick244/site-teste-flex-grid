@@ -42,6 +42,17 @@ header nav {
     animation-name: nav;
 }
 
+.logo {
+    animation-name: logo;
+    animation-duration: 2s;
+}
+
+@keyframes logo {
+    from {
+        margin-bottom: 100%;
+    }
+}
+
 
 nav a {
     display: inline-block;
