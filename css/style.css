@@ -163,6 +163,7 @@ p.animation {
     font-size: 3.5em;
     cursor: pointer;
     display: none;
+    margin-right: 10px;
 }
 
 .burguer:hover {
